@@ -1,0 +1,4 @@
+D:\File C++\bymeproject\bymeproject\x64\Release\bymeproject.vcxproj.AssemblyReference.cache
+D:\File C++\bymeproject\bymeproject\x64\Release\bymeproject.vcxproj.SuggestedBindingRedirects.cache
+D:\File C++\bymeproject\bymeproject\x64\Release\bymeproject.MyForm1.resources
+D:\File C++\bymeproject\bymeproject\x64\Release\bymeproject.vcxproj.GenerateResource.cache
